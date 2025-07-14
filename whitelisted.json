@@ -7,13 +7,8 @@
     },
     {
       "ip": "98.76.54.32",
-      "name": "Skylight RP",
+      "name": "Trinity RP",
       "status": "whitelisted"
-    },
-    {
-      "ip": "45.66.77.88",
-      "name": "Skidland",
-      "status": "blacklisted"
     }
   ]
 }
