@@ -1,7 +1,19 @@
 {
-  "whitelisted_ips": {
-    "89.213.120.5": "Onyx RP",
-    "98.76.54.32": "Skylight RP",
-    "111.222.333.444": "Test server"
-  }
+  "servers": [
+    {
+      "ip": "89.213.120.5",
+      "name": "Onyx RP",
+      "status": "whitelisted"
+    },
+    {
+      "ip": "98.76.54.32",
+      "name": "Skylight RP",
+      "status": "whitelisted"
+    },
+    {
+      "ip": "45.66.77.88",
+      "name": "Skidland",
+      "status": "blacklisted"
+    }
+  ]
 }
