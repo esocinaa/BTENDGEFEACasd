@@ -3,7 +3,7 @@
     {
       "ip": "89.213.120.5",
       "name": "Onyx RP",
-      "status": "whitelisted"
+      "status": "blacklisted"
     },
     {
       "ip": "98.76.54.32",
